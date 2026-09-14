@@ -1,30 +1,74 @@
-Highlights & Device Specific Changes:
-Build type: Stable/Monthly
-Device name: POCO X5 PRO
-Device codename: redwood
-Device maintainer: Blueheart016|SaYaN
-=x=x= 06th Sep 2026 =x=x=
-* redwood
-* LunarisDolby
-* MIUI Cam
-* Scarlet v6 NON Root Kernel
+Device-tree:
 
-=×=×= 12th Nov 2025 =×=×=
-* Android 16 Release
-* Blobs updated to OS2.0.11.0.UMSMIXM
-* MIUI Cam Included
-* Includes Moto Dolby
+Fixes a recurring runtime error where libprocessgroup fails to restrict
+background processes due to VFS and SELinux enforcement restrictions:
 
-=×=×= 23rd Oct 2025 =×=×=
-* MIUI Cam Included
-* Sony Dolby Included
-* Scarlet as default kernel(latest)
-* Updated blobs to latest global
-* fixed dt2w
+CPULittleCluster: added 300MHz minimum frequency and set as default idle target.
+PowerHint (INTERACTION): smoothed bus/bandwidth boosting to save juice during screen touches.
+GPU: corrected default index for forced clocks/rails to prevent idle battery drain.
+Task Profiles: added DeepSleepIdle profile and stripped redundant attributes/profil
 
-=×=×= 07th June 2025 =×=×=
-* Synced with Latest RisingOS Revived sources v7.0 (Persis)
-* Initial Build
-* MIUI Cam Included
-* Sony Dolby Included
-* Scarlet as default kernel
+Grant system_server write permissions to both cpu.uclamp.min and
+cpu.uclamp.max nodes under the top-app cpuctl cgroup.
+
+Activates a performance optimization tweak—commonly found in custom ROMs
+or manufacturer-specific kernels—focused entirely on scrolling
+smoothness.
+
+
+🌍✨ Introduction
+Go Celestia! RisingOS Revived v8.1 is here! This update includes Android 16 QPR0 changes, packed with exciting new features, performance improvements, and bug fixes. And always keep the spirit of risingOS and appreciate all the risingOS team for their hard work 🔥🚀💙.
+
+🔒 Security Updates
+
+    Android Security Patches: Up-to-date as
+    of August 2025 with Android 16 QPR0 changes.
+
+🔧 **Bug Fixes **
+
+    Fixed custom QS clock
+    Improved Personalizations ui
+    Fixed status bar colored icons
+    Improved the overall experience
+
+=========08/08/2025===========
+- Welcome to RisingOS Revived 8.0
+- Synced with latest Source Changes
+
+🔧 Changelog (v7.1):
+- Merged the June security patch
+- Fixed various lock screen element bugs
+- Added support for Keybox spoofing
+- Dropped Pixel Framework (pixel-fw)
+- Introduced several stability improvements across the system
+- Implemented the new Android 16-style Settings UI
+- Added back easter egg on the settings
+- Added back the fully white quick settings
+
+- Including:
+- Miuicamera 4k
+- Pixel launcher 
+- BCR
+- Wi-fi calling 
+- RCS chats
+- Add ViPER4 SoundFX
+- D2tw 
+- 
+- Credit to: 
+- @Thereache for DT
+- @bittencourtjulival for the help
+
+- 20260613
+- Update blobs from OS2.0.3.0.UMSMIXM 
+- Add ViPER4 SoundFX
+
+
+- Initial build UNOFFICIAL by Vebraga
+- Including:
+- Miuicamera 4k
+- Pixel launcher 
+- BCR
+- Wi-fi calling 
+- RCS chats
+- Dolby 
+- D2tw 
