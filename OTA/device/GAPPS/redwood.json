@@ -1,16 +1,15 @@
 {
 	"response": [
 		{
-			"maintainer": "√€ßπ∆⅁∆",
+			"maintainer": "√€ßπ∆⅁∆-Vicente",
 			"oem": "xiaomi",
 			"device": "POCO X5 PRO 5G",
-			"filename": "RisingOS-9-260918-1520-GAPPS-UNOFFICIAL-redwood-ota.zip",
-			"download": "https://sourceforge.net/projects/vebraga/files/RisingRev/9.x/GAPPS/RisingOS-9-260918-1520-GAPPS-UNOFFICIAL-redwood-ota.zip/download",
-			"download_alt": "https://pixeldrain.com/l/noBZoGj8#item=2",
-			"timestamp": 1789755502,
-			"md5": "b1da3e143787a478c135c4b1df50bdaf",
-			"sha256": "334e2b213dce4294fd9185393839ae19f2659a801d72fb2b1c5cdb38aaa9f7b9",
-			"size": 2985593350,
+			"filename": "RisingOS-9-260918-1817-GAPPS-UNOFFICIAL-redwood-ota.zip",
+			"download": "https://sourceforge.net/projects/vebraga/files/RisingRev/9.x/GAPPS/RisingOS-9-260918-1817-GAPPS-UNOFFICIAL-redwood-ota.zip/download",
+			"timestamp": 1789766133,
+			"md5": "1f7dee6806fbca7b4275462047109cc4",
+			"sha256": "5a9edce7f59ac5173ef7037dc06ed059b5c6d143f787e298903aa5d0e24e9e8a",
+			"size": 2985682977,
 			"version": "9-elefthería",
 			"buildtype": "STABLE",
 			"forum": "",
