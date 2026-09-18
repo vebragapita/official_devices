@@ -4,19 +4,18 @@
 			"maintainer": "√€ßπ∆⅁∆",
 			"oem": "xiaomi",
 			"device": "POCO X5 PRO 5G",
-			"filename": "RisingOS-9-260913-1939-GAPPS-UNOFFICIAL-redwood-ota.zip",
-			"download": "https://sourceforge.net/projects/vebraga/files/RisingRev/9.x/GAPPS/RisingOS-9-260913-1939-GAPPS-UNOFFICIAL-redwood-ota.zip/download",
-			"download_alt": "https://pixeldrain.com/l/noBZoGj8#item=6",
-			"timestamp": 1788996354,
-			"md5": "9260ee9db725efca6d66925fd695ae6f",
-			"sha256": "4c4efa968a435f4737c8e32f0eaaddb7cc597fe2c7556f018dd0e7fd02354bfe",
-			"size": 2960644916,
+			"filename": "RisingOS-9-260918-1520-GAPPS-UNOFFICIAL-redwood-ota.zip",
+			"download": "https://sourceforge.net/projects/vebraga/files/RisingRev/9.x/GAPPS/RisingOS-9-260918-1520-GAPPS-UNOFFICIAL-redwood-ota.zip/download",
+			"download_alt": "https://pixeldrain.com/l/noBZoGj8#item=2",
+			"timestamp": 1789755502,
+			"md5": "b1da3e143787a478c135c4b1df50bdaf",
+			"sha256": "334e2b213dce4294fd9185393839ae19f2659a801d72fb2b1c5cdb38aaa9f7b9",
+			"size": 2985593350,
 			"version": "9-elefthería",
 			"buildtype": "STABLE",
 			"forum": "",
 			"recovery": "https://sourceforge.net/projects/vebraga/files/RisingRev/9.x/RECOVERY/",
-			"paypal": "https://www.paypal.com/donate/?hosted_button_id=FPAQAJVGGYXGA",
-			"telegram": "https://t.me/ToxicOS_OfficalSupport"
+			"paypal": "https://www.paypal.com/donate/?hosted_button_id=FPAQAJVGGYXGA"
 		}
 	]
 }
