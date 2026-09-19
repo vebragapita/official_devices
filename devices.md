@@ -49,7 +49,7 @@
 - **POCO F6 Pro/K70 (vermeer)** - [`@ByteWave1014`](https://t.me/ByteWave1014)
 - **POCO X4 Pro 5G (veux)** - [`@MrTopia`](https://t.me/mrtopia)
 - **POCO X5 5G/REDMI NOTE 12 5G (stone)** - [`@bittencourtjulival`](https://t.me/bittencourtjulival)
-- **POCO X5 Pro 5G (redwood)** - [`@Blueheart016|SaYaN`](https://t.me/@BlueHeart016)
+- **POCO X5 Pro 5G (redwood)** - [`@vebraga`](https://t.me/vebraga)
 - **POCO X6 5G (garnetp)** - [`@mysellysenpai`](https://t.me/mysellysenpai)
 - **POCO X7 Pro 5G (rodin)** - [`@skwel24`](https://t.me/skwel24)
 - **POCO M6 Pro 5G (sky)** - [`@ashwani_212`](https://t.me/ashwani_212)
