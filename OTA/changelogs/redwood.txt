@@ -1,4 +1,24 @@
+
+22/10/2026
+
+# Source
+- Android 17 ortus launcher - Soon™
+- October patches are merged
+- Introducing TouchWiz like volume bar
+- Complemently redesinged the dynamic bar ui and chips. Before and after
+- Added toggles to remove media and brightness slider from qqs
+- Introducing custom quick quick settings tile selection (max 2 rows, 10 tiles)
+- Introducing custom WiFi mac address feature
+
 Device-tree:
+- CPU control added
+- Fixes WhatsApp and Telegram voice message bug
+ sometime can't send audio messages in WhatsApp and Telegram after this changes
+- Fix bluetooth
+- Remove ok google support
+- Aadd balanced game hint
+- kernel scarlet
+- Moto dolby
 
 Fixes a recurring runtime error where libprocessgroup fails to restrict
 background processes due to VFS and SELinux enforcement restrictions:
