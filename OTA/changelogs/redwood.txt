@@ -1,3 +1,7 @@
+25/10/2026
+
+- Ok google support-
+- Migrate to 64-bit only
 
 22/10/2026
 
